@@ -33,7 +33,7 @@ jobs:
 
       - name: Setup Git Configuration
         run: |
-          git config user.email "y25qz26wa27d@gmail.comm"
+          git config user.email "y25qz26wa27d@gmail.commm"
           git config user.name "y25qz26wa27d"
 
       - name: Prepare Commit
